@@ -99,15 +99,7 @@ export const links = [
       // },
       {
         label: "Github",
-        href: "https://github.com/tacofinance/",
-      },
-      {
-        label: "Docs",
-        href: "https://taco-finance.gitbook.io/taco-finance/",
-      },
-      {
-        label: "Blog",
-        href: "https://taco-finance.medium.com/",
+        href: "https://github.com/talkcryptome/",
       },
     ],
   },

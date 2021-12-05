@@ -2100,15 +2100,7 @@ var links = [
             // },
             {
                 label: "Github",
-                href: "https://github.com/tacofinance/",
-            },
-            {
-                label: "Docs",
-                href: "https://taco-finance.gitbook.io/taco-finance/",
-            },
-            {
-                label: "Blog",
-                href: "https://taco-finance.medium.com/",
+                href: "https://github.com/talkcryptome/",
             },
         ],
     },
@@ -2122,46 +2114,6 @@ var socials = [
                 label: "English",
                 href: "https://t.me/talkcryptotome",
             },
-            // {
-            //   label: "Bahasa Indonesia",
-            //   href: "https://t.me/PancakeSwapIndonesia",
-            // },
-            // {
-            //   label: "中文",
-            //   href: "https://t.me/PancakeSwap_CN",
-            // },
-            // {
-            //   label: "Tiếng Việt",
-            //   href: "https://t.me/PancakeSwapVN",
-            // },
-            // {
-            //   label: "Italiano",
-            //   href: "https://t.me/pancakeswap_ita",
-            // },
-            // {
-            //   label: "русский",
-            //   href: "https://t.me/pancakeswap_ru",
-            // },
-            // {
-            //   label: "Türkiye",
-            //   href: "https://t.me/pancakeswapturkiye",
-            // },
-            // {
-            //   label: "Português",
-            //   href: "https://t.me/PancakeSwapPortuguese",
-            // },
-            // {
-            //   label: "Español",
-            //   href: "https://t.me/PancakeswapEs",
-            // },
-            // {
-            //   label: "日本語",
-            //   href: "https://t.me/pancakeswapjp",
-            // },
-            // {
-            //   label: "Français",
-            //   href: "https://t.me/pancakeswapfr",
-            // },
             {
                 label: "Announcements",
                 href: "https://t.me/tctmannouncements",
