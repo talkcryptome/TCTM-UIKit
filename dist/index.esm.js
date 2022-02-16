@@ -1981,7 +1981,7 @@ var Logo = function (_a) {
     var innerLogo = (React.createElement(React.Fragment, null,
         React.createElement(Logo$1, { className: "desktop-icon", isDark: isDark })));
     return (React.createElement(Flex, null,
-        React.createElement(MenuButton, { "aria-label": "Toggle menu", onClick: togglePush, mr: "24px" }, isPushed ? (React.createElement(Icon$l, { width: "24px", color: "textSubtle", height: "auto" })) : (React.createElement(Icon$m, { width: "24px", color: "textSubtle", height: "auto" }))),
+        React.createElement(MenuButton, { "aria-label": "Toggle menu", onClick: togglePush, mr: "24px" }, isPushed ? (React.createElement(Icon$l, { width: "24px", color: "textSubtle", style: { height: "auto" } })) : (React.createElement(Icon$m, { width: "24px", color: "textSubtle", style: { height: "auto" } }))),
         isAbsoluteUrl ? (React.createElement(StyledLink, { as: "a", href: href, "aria-label": "TCTM home page" }, innerLogo)) : (React.createElement(StyledLink, { to: href, "aria-label": "TCTM home page" }, innerLogo))));
 };
 var templateObject_1$c;
