@@ -41,7 +41,7 @@ const Logo: React.FC<Props> = ({ isPushed, togglePush, isDark, href }) => {
 
   return (
     <Flex>
-      <MenuButton aria-label="Toggle menu" onClick={togglePush} mr="24px">
+      <MenuButton aria-label="Toggle menu" onClick={togglePush} mr="24px" style={{height:"auto"}}>
         {isPushed ? (
           <HamburgerCloseIcon width="24px" color="textSubtle" style={{height:"auto"}}/>
         ) : (
