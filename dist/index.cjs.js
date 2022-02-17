@@ -1994,7 +1994,7 @@ var Logo = function (_a) {
     var innerLogo = (React__default["default"].createElement(React__default["default"].Fragment, null,
         React__default["default"].createElement(Logo$1, { className: "desktop-icon", isDark: isDark })));
     return (React__default["default"].createElement(Flex, null,
-        React__default["default"].createElement(MenuButton, { "aria-label": "Toggle menu", onClick: togglePush, mr: "24px" }, isPushed ? (React__default["default"].createElement(Icon$l, { width: "24px", color: "textSubtle", style: { height: "auto" } })) : (React__default["default"].createElement(Icon$m, { width: "24px", color: "textSubtle", style: { height: "auto" } }))),
+        React__default["default"].createElement(MenuButton, { "aria-label": "Toggle menu", onClick: togglePush, mr: "24px", style: { height: "auto" } }, isPushed ? (React__default["default"].createElement(Icon$l, { width: "24px", color: "textSubtle", style: { height: "auto" } })) : (React__default["default"].createElement(Icon$m, { width: "24px", color: "textSubtle", style: { height: "auto" } }))),
         isAbsoluteUrl ? (React__default["default"].createElement(StyledLink, { as: "a", href: href, "aria-label": "TCTM home page" }, innerLogo)) : (React__default["default"].createElement(StyledLink, { to: href, "aria-label": "TCTM home page" }, innerLogo))));
 };
 var templateObject_1$c;
